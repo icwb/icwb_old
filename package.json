@@ -1,0 +1,17 @@
+{
+    "name": "indowarbot",
+    "version": "1.0.0",
+    "description": "IndoWarBot 2030",
+    "author": "icwb",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "canvas": "^2.5.0",
+        "dotenv": "^8.0.0",
+        "firebase-admin": "^7.3.0",
+        "imgur": "^0.3.1",
+        "pastebin-js": "^1.0.2"
+    }
+}
